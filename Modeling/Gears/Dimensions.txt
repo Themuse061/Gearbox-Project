@@ -1,0 +1,6 @@
+Center Distance: 50mm
+Gear Width: 7mm
+Inner Diameter (Axile): 8mm
+Width of material around Axile: 2mm
+Width of material next to teeth: 2mm
+Supporting beams width: 2mm
